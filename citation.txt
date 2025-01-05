@@ -1,0 +1,8 @@
+@inproceedings{REPO162,
+    author = "Cai, Yichao and Liu, Yuhang and Zhang, Zhen and Shi, Javen Qinfeng",
+    booktitle = "European Conference on Computer Vision",
+    organization = "Springer",
+    pages = "130--147",
+    title = "{CLAP: Isolating Content from Style Through Contrastive Learning with Augmented Prompts}",
+    year = "2025"
+}
